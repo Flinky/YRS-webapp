@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+
+ <head>
+
+  <title>Hola</title>
+  <link rel="stylesheet" href="page.css" type="text/css" />
+  <link rel="stylesheet" href="leaflet.css" />
+  <script src="leaflet.js"></script>
+  <script src="http://code.jquery.com/jquery-latest.js"></script>
+  <script src="leaflet-search-master/*"></script>
+
+ </head>
+ 
+
+ <body>
+
+  <div id="header"> 
+   <h1>Hello, I am a webpage!</h1>
+  </div>
+
+  <ul>
+   <li><a href="page.html">Home</a></li>
+   <li><a href="about.html">About</a></li>
+   <li><a href="sources.html">Sources</a></li>
+  </ul>
+
+  <div id="search" />
+
+  <div id="map" />
+
+<!--  <applet code="applet.class" width=200 height=100>
+  </applet> -->
+
+  <div id="footer">
+   <h2>This is the footer</h2>
+  </div>
+
+ <script>
+   var map=L.map('map').setView([55.949, -3.191], 16);
+   L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+    maxZoom: 18,
+    id: 'carlars.3aa58c05',
+    accessToken: 'pk.eyJ1IjoiY2FybGFycyIsImEiOiIzODRiMjc5NjdjMjNhMDA4YmFlMGM0NTIwZmZjNDJlMyJ9.6Li2ltpILTbZ2FHZDb9Adw'}).addTo(map);
+
+   var marker = L.marker([55.949, -3.201]).addTo(map);
+   marker.bindPopup("<b>This is ...</b><br>EDINBURR CASTEL !").openPopup();
+   
+ </script>
+
+
+ </body>
+
+
+</html>
