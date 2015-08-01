@@ -50,7 +50,8 @@
    for(i=0; i < data.elements.length; i++) {
    var e=data.elements[i];
    var marker = L.marker([e.lat, e.lon]).addTo(map);
-   marker.bindPopup("<b>This is</b><br>a point of interest").openPopup();
+   marker.bindPopup(e.tags.name).openPopup();
+   
    }
 
    });
