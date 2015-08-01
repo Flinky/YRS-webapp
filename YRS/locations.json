@@ -1,0 +1,1582 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2015-08-01T09:31:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 258016781,
+  "lat": 55.9469224,
+  "lon": -3.1913043,
+  "tags": {
+    "historic": "memorial",
+    "name": "Greyfriars Bobby Statue",
+    "source": "Bing;survey",
+    "tourism": "attraction",
+    "wheelchair": "yes",
+    "wikipedia": "en:Greyfriars Bobby"
+  }
+},
+{
+  "type": "node",
+  "id": 268408103,
+  "lat": 55.9489751,
+  "lon": -3.1955750,
+  "tags": {
+    "addr:housenumber": "549",
+    "addr:street": "Castlehill",
+    "name": "Camera Obscura",
+    "source": "survey",
+    "tourism": "attraction",
+    "website": "http://www.camera-obscura.co.uk/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 505014478,
+  "lat": 55.9487741,
+  "lon": -3.2001579,
+  "tags": {
+    "name": "Mons Meg",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 505014479,
+  "lat": 55.9491680,
+  "lon": -3.2008345,
+  "tags": {
+    "name": "One O'Clock Gun",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 529443421,
+  "lat": 55.9495655,
+  "lon": -3.1914772,
+  "tags": {
+    "name": "Heart of Midlothian",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 538531426,
+  "lat": 55.9479502,
+  "lon": -3.1945064,
+  "tags": {
+    "name": "The Bow Well",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2113071246,
+  "lat": 55.9501234,
+  "lon": -3.1906703,
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:street": "Warriston's Close",
+    "name": "Mary King's Close",
+    "source": "survey",
+    "tourism": "attraction",
+    "website": "http://www.realmarykingsclose.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2113087161,
+  "lat": 55.9466868,
+  "lon": -3.1916914,
+  "tags": {
+    "historic": "tomb",
+    "name": "Greyfriars Bobby's Grave",
+    "tomb": "tombstone",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2323807230,
+  "lat": 55.9491292,
+  "lon": -3.1873777,
+  "tags": {
+    "addr:housenumber": "28",
+    "addr:street": "Blair Street",
+    "name": "Mercat Cross",
+    "source": "survey",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2434623914,
+  "lat": 55.9536028,
+  "lon": -3.1862725,
+  "tags": {
+    "historic": "tomb",
+    "name": "Memorial to Archibald Constable",
+    "tomb": "tombstone",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2434623916,
+  "lat": 55.9535015,
+  "lon": -3.1860396,
+  "tags": {
+    "historic": "tomb",
+    "name": "Tombstone of David Allan",
+    "tomb": "tombstone",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2434623917,
+  "lat": 55.9533184,
+  "lon": -3.1857689,
+  "tags": {
+    "historic": "tomb",
+    "name": "Vault of Dr Robert Candlish & James Candlish",
+    "tomb": "vault",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2434623918,
+  "lat": 55.9535200,
+  "lon": -3.1862811,
+  "tags": {
+    "historic": "tomb",
+    "name": "Vault of Robert Burn",
+    "tomb": "vault",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2434623919,
+  "lat": 55.9536488,
+  "lon": -3.1864671,
+  "tags": {
+    "historic": "tomb",
+    "name": "Vault of William Blackwood",
+    "tomb": "vault",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2914760336,
+  "lat": 55.9487335,
+  "lon": -3.1958763,
+  "tags": {
+    "addr:housenumber": "354",
+    "addr:street": "Castlehill",
+    "name": "The Scotch Whisky Experience",
+    "source": "survey",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2955931322,
+  "lat": 55.9503299,
+  "lon": -3.1855073,
+  "tags": {
+    "addr:housenumber": "42",
+    "addr:street": "High Street",
+    "alt_name:es": "Museo_Childhood",
+    "name": "Museum of Childhood",
+    "source": "survey",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2973367148,
+  "lat": 55.9510784,
+  "lon": -3.1908778,
+  "tags": {
+    "addr:housenumber": "31",
+    "addr:street": "Market Street",
+    "name": "The Edinburgh Dungeon",
+    "source": "survey",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 3084868165,
+  "lat": 55.9490645,
+  "lon": -3.1957177,
+  "tags": {
+    "name": "Camera Obscura",
+    "shop": "yes",
+    "source": "survey",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 4301292,
+  "nodes": [
+    26005891,
+    2635060595,
+    2635060603,
+    2635060547,
+    2635060623,
+    2635060592,
+    2635060570,
+    3095810192,
+    505006401,
+    26005890,
+    505006408,
+    3095810186,
+    26005873,
+    505006386,
+    505006382,
+    676288635,
+    676288633,
+    26005836,
+    676288631,
+    676288638,
+    505006411,
+    505006413,
+    505006414,
+    26005834,
+    505006415,
+    505014469,
+    505014476,
+    26005906,
+    1282677812,
+    26005911,
+    26006087,
+    26005916,
+    26005922,
+    3095807968,
+    505006420,
+    505006419,
+    3095807967,
+    505006416,
+    505006433,
+    3095451960,
+    3095451961,
+    3095451959,
+    3095451957,
+    3095451956,
+    3095451955,
+    26005802,
+    676288591,
+    676288590,
+    3095451935,
+    505006297,
+    504960876,
+    505006299,
+    2941221104,
+    3095451937,
+    3095451939,
+    2635060653,
+    3095451940,
+    3095451938,
+    2635060661,
+    3095451934,
+    2635060579,
+    2635060664,
+    504959551,
+    3095451932,
+    2635060691,
+    3095451931,
+    2635060690,
+    26005806,
+    2635060693,
+    2635060695,
+    2635060696,
+    2635060697,
+    2635060698,
+    505006375,
+    3095807965,
+    3095807966,
+    505006371,
+    2635060587,
+    2635060629,
+    2635060639,
+    2635060638,
+    2635060642,
+    2635060650,
+    2635060598,
+    2635060652,
+    2635060656,
+    2635060585,
+    3095807986,
+    2635060700,
+    2635060701,
+    26005892,
+    505006392,
+    26005893,
+    2635060702,
+    2635060540,
+    2635060569,
+    2635060548,
+    2635060550,
+    505006389,
+    2635060557,
+    2635060567,
+    2635060559,
+    2635060553,
+    2635060554,
+    2635060703,
+    2617645730,
+    505006387,
+    26005894,
+    3095810197,
+    3095810196,
+    505006435,
+    3095810195,
+    3095810193,
+    2635060573,
+    2635060588,
+    2635060581,
+    2635060611,
+    26005891
+  ],
+  "tags": {
+    "addr:city": "Edinburgh",
+    "addr:housename": "Edinburgh Castle",
+    "addr:postcode": "EH1 2NG",
+    "addr:street": "Castlehill",
+    "historic": "castle",
+    "name": "Edinburgh Castle",
+    "phone": "+44 131 225 9846",
+    "source": "Bing",
+    "tourism": "attraction",
+    "website": "http://www.edinburghcastle.gov.uk/",
+    "wikipedia": "en:Edinburgh Castle"
+  }
+},
+{
+  "type": "way",
+  "id": 26564879,
+  "nodes": [
+    291215242,
+    291215243,
+    520359449,
+    520359455,
+    520359457,
+    3054324900,
+    520359453,
+    3054324907,
+    3054324908,
+    3054324904,
+    291215244,
+    291215245,
+    520359451,
+    520359459,
+    3054324865,
+    3054324862,
+    520359461,
+    520359450,
+    291215242
+  ],
+  "tags": {
+    "alt_name:es": "Museo_Surgeons",
+    "building": "yes",
+    "name": "Surgeons Hall Museum",
+    "source": "NLS_OS_Edinburgh_map_1940s;Bing",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 27248124,
+  "nodes": [
+    520410827,
+    3049505785,
+    520410811,
+    3049505795,
+    3049505815,
+    3049505816,
+    3049505828,
+    3049505827,
+    3090387972,
+    299051992,
+    299051993,
+    299051995,
+    3049505743,
+    3049505747,
+    299051996,
+    520410812,
+    520410827
+  ],
+  "tags": {
+    "alt_name": "Dovecot Studios",
+    "building": "yes",
+    "name": "The Edinburgh Tapestry Company",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 39044819,
+  "nodes": [
+    3196936136,
+    3196936139,
+    3196936138,
+    3196936134,
+    3196936131,
+    3196936128,
+    3196936126,
+    3196936130,
+    3196936140,
+    3196936143,
+    3196936142,
+    3196936144,
+    3196936146,
+    3196936147,
+    3196936145,
+    3196936141,
+    3196936135,
+    3196936133,
+    3196936137,
+    3196936132,
+    3196936127,
+    3196936119,
+    3196936114,
+    3196936116,
+    3196936117,
+    3196936118,
+    3196936115,
+    3196936109,
+    3196936103,
+    3196936099,
+    3196936101,
+    3196936105,
+    3196936108,
+    3196936111,
+    3196936113,
+    3196936110,
+    3196936100,
+    3196936096,
+    3196936097,
+    3196936095,
+    3196936094,
+    3196936092,
+    3196936093,
+    3196936098,
+    3196936104,
+    3196936107,
+    3196936102,
+    3196936106,
+    3196936112,
+    3196936122,
+    3196936125,
+    3196936123,
+    3196936121,
+    3196936120,
+    3196936124,
+    3196936129,
+    3196936136
+  ],
+  "tags": {
+    "alt_name:es": "Monumento_Scott",
+    "historic": "monument",
+    "name": "Sir Walter Scott Monument",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 41294307,
+  "nodes": [
+    505006304,
+    504960501,
+    3095451994,
+    504960507,
+    504960509,
+    505006304
+  ],
+  "tags": {
+    "alt_name:es": "Castillo_Edimburgo",
+    "building": "yes",
+    "name": "Royal Scots Museum",
+    "source": "Bing",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 41294347,
+  "nodes": [
+    504962328,
+    2635060677,
+    504962330,
+    3095452027,
+    3095452028,
+    3095452026,
+    3095452024,
+    3095452023,
+    3095452019,
+    504962333,
+    504962338,
+    3095452003,
+    3095452006,
+    3095451996,
+    3095451987,
+    504962341,
+    504962344,
+    2635060681,
+    2635060687,
+    3095451962,
+    3095451964,
+    3095451958,
+    3095451954,
+    504962354,
+    504962357,
+    3095451942,
+    3095451941,
+    3095451945,
+    3095451948,
+    3095451951,
+    3095451950,
+    3095451952,
+    3095451953,
+    3095451995,
+    3095451988,
+    3095451997,
+    3095452001,
+    3095452011,
+    3095452007,
+    3095452012,
+    3095452015,
+    504962328
+  ],
+  "tags": {
+    "alt_name:es": "Castillo_Edimburgo",
+    "building": "yes",
+    "name": "New Barracks",
+    "source": "Bing",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 41299975,
+  "nodes": [
+    505006337,
+    3095863224,
+    505006338,
+    505006340,
+    1356336493,
+    1356336492,
+    1356336505,
+    505006337
+  ],
+  "tags": {
+    "alt_name:es": "Castillo_Edimburgo",
+    "building": "yes",
+    "name": "National War Museum",
+    "source": "Bing",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 41299976,
+  "nodes": [
+    505006341,
+    1356336505,
+    1356336492,
+    505006345,
+    2635060621,
+    2635060604,
+    3095810175,
+    3095810177,
+    2635060596,
+    505006348,
+    3095810178,
+    2934374708,
+    3095810164,
+    505006349,
+    3095810160,
+    3095810158,
+    3095810145,
+    2934374703,
+    3095810143,
+    3095810142,
+    505006350,
+    2934374712,
+    2635060590,
+    3095810179,
+    3095810180,
+    3095810181,
+    2635060601,
+    3095810183,
+    3095810184,
+    3095810185,
+    2635060593,
+    2635060582,
+    505006344,
+    2934374716,
+    3095810189,
+    3095810191,
+    3095810190,
+    3095810188,
+    2934374715,
+    505006341
+  ],
+  "tags": {
+    "alt_name:es": "Castillo_Edimburgo",
+    "building": "yes",
+    "name": "Hospital",
+    "source": "Bing",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 41299978,
+  "nodes": [
+    505006351,
+    505006352,
+    505006353,
+    505006354,
+    505006357,
+    505006351
+  ],
+  "tags": {
+    "alt_name:es": "Castillo_Edimburgo",
+    "building": "yes",
+    "name": "Cartsheds",
+    "source": "Bing",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 41299983,
+  "nodes": [
+    505006362,
+    3095863226,
+    3095863228,
+    3095864030,
+    3095864029,
+    3095863227,
+    505006363,
+    505006365,
+    505006366,
+    505006367,
+    505006368,
+    505006369,
+    505006370,
+    3095863225,
+    505006362
+  ],
+  "tags": {
+    "alt_name:es": "Castillo_Edimburgo",
+    "building": "yes",
+    "name": "Governors House",
+    "source": "Bing",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 41299987,
+  "nodes": [
+    505006380,
+    505006381,
+    3095810138,
+    2149556599,
+    676288628,
+    505006382,
+    505006386,
+    2149556602,
+    505006380
+  ],
+  "tags": {
+    "alt_name:es": "Castillo_Edimburgo",
+    "building": "yes",
+    "layer": "1",
+    "name": "Argyle Tower",
+    "source": "Bing",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 41299988,
+  "nodes": [
+    3095451946,
+    505006400,
+    505006394,
+    505006395,
+    505006397,
+    3095451946
+  ],
+  "tags": {
+    "alt_name:es": "Castillo_Edimburgo",
+    "amenity": "prison",
+    "building": "yes",
+    "name": "Military Prison",
+    "source": "Bing",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 41299992,
+  "nodes": [
+    505006417,
+    2941221107,
+    3095807979,
+    505006419,
+    505006420,
+    3095807971,
+    505006421,
+    505006422,
+    26005916,
+    26006087,
+    26005911,
+    2941221109,
+    505006417
+  ],
+  "tags": {
+    "alt_name:es": "Castillo_Edimburgo",
+    "building": "yes",
+    "name": "Gatehouse",
+    "source": "Bing",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 42407060,
+  "nodes": [
+    2882736551,
+    529443409,
+    2882736555,
+    2940738839,
+    2940738840,
+    3086366054,
+    529443411,
+    3086366050,
+    2940854458,
+    2940854456,
+    2940854460,
+    2940738835,
+    2882736552,
+    2882736553,
+    2940738836,
+    529443415,
+    2940854463,
+    2940854468,
+    3086366051,
+    2940854471,
+    2989775330,
+    529443419,
+    2882736557,
+    2882736556,
+    529443418,
+    529443417,
+    3086366055,
+    529443408,
+    529443407,
+    529443406,
+    529443405,
+    2882736547,
+    3086366071,
+    529443401,
+    2882736546,
+    2882736545,
+    3086366070,
+    3086366068,
+    3086366067,
+    3086366066,
+    3086366065,
+    3086366069,
+    529443402,
+    529443403,
+    2882736544,
+    2882736543,
+    529443404,
+    2882736549,
+    2882736548,
+    3086366062,
+    3086366063,
+    3086366061,
+    3086366059,
+    3086366058,
+    2882736550,
+    2882736551
+  ],
+  "tags": {
+    "alt_name:es": "Catedral_St._Giles",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "church_of_scotland",
+    "name": "St. Giles' Cathedral",
+    "religion": "christian",
+    "source": "OS_Town_Plans_Edinburgh_1893;survey",
+    "tourism": "attraction",
+    "website": "http://www.stgilescathedral.org.uk",
+    "wheelchair": "yes",
+    "wikipedia": "en:St Giles' Cathedral"
+  }
+},
+{
+  "type": "way",
+  "id": 43367244,
+  "nodes": [
+    545848936,
+    2920687584,
+    3086029826,
+    545848940,
+    545848942,
+    545848947,
+    2920689807,
+    2920689812,
+    2920689815,
+    2920689818,
+    2920689820,
+    2920689821,
+    2920689819,
+    2920689816,
+    2920689813,
+    2920689811,
+    2920689810,
+    2920689808,
+    545848951,
+    545848890,
+    545848936
+  ],
+  "tags": {
+    "addr:city": "Edinburgh",
+    "addr:housenumber": "477b",
+    "addr:street": "Lawnmarket",
+    "building": "yes",
+    "name": "Gladstone's Land",
+    "operator": "The National Trust for Scotland",
+    "source": "Bing;survey",
+    "start_date": "1617",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 70826506,
+  "nodes": [
+    844566673,
+    2973367146,
+    2970050975,
+    835527782,
+    2970050984,
+    835527775,
+    2973368833,
+    844566673
+  ],
+  "tags": {
+    "alt_name:es": "Galería_Fruitmarkerket",
+    "amenity": "cafe",
+    "building": "yes",
+    "name": "Fruitmarket Gallery",
+    "source": "Bing;survey",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 70955003,
+  "nodes": [
+    845638133,
+    845638233,
+    2984263279,
+    3005409106,
+    845638361,
+    845637923,
+    2984263278,
+    845638006,
+    3003185621,
+    845638079,
+    845638211,
+    3005409091,
+    2984263273,
+    2984263274,
+    3005409056,
+    845638133
+  ],
+  "tags": {
+    "alt_name:es": "Taverna_Tolbooth",
+    "amenity": "pub",
+    "building": "yes",
+    "food": "yes",
+    "name": "Tollbooth Tavern",
+    "real_ale": "2-3 beers",
+    "source": "Bing;survey",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 81243762,
+  "nodes": [
+    946553315,
+    3129493105,
+    946553316,
+    946553319,
+    2962208458,
+    2962208464,
+    2962208474,
+    2962208486,
+    2962208492,
+    2962208497,
+    2962208500,
+    2962208502,
+    946553326,
+    3206228570,
+    2962208510,
+    2286539439,
+    3303990968,
+    3303990967,
+    3303990966,
+    3303990965,
+    2962208491,
+    2962208484,
+    2962208476,
+    2962208470,
+    2962208465,
+    946553330,
+    2962208454,
+    2962208452,
+    2962208450,
+    2962208448,
+    946553336,
+    946553315
+  ],
+  "tags": {
+    "alt_name:es": "Iglesia_San_Andrés_San_George",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "church_of_scotland",
+    "name": "St Andrew's and St George's West",
+    "religion": "christian",
+    "source": "Bing;NLS_OS_Edinburgh_map_1940s;NLS_OS_Edinburgh_map_1893;survey",
+    "tourism": "attraction",
+    "website": "http://www.stagw.org.uk"
+  }
+},
+{
+  "type": "way",
+  "id": 129914856,
+  "nodes": [
+    1432513901,
+    1432513903,
+    1432513900,
+    1432513895,
+    1432513901
+  ],
+  "tags": {
+    "name": "Relief Map",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 170962798,
+  "nodes": [
+    1820682267,
+    1820682274,
+    1820682273,
+    3512875406,
+    1820682229,
+    1820682263,
+    1820682201,
+    3512875405,
+    3512875404,
+    1820682197,
+    1820682250,
+    1820682206,
+    1820682194,
+    1820682269,
+    1820682261,
+    1820682235,
+    1820682213,
+    1820682226,
+    1820682205,
+    1820682283,
+    1820682245,
+    1820682219,
+    1820682258,
+    1820682243,
+    1820682223,
+    1820682210,
+    1820682231,
+    1820682265,
+    1820682287,
+    1820682203,
+    1820682281,
+    1820682279,
+    1820682247,
+    1820682192,
+    1820682289,
+    1820682253,
+    1820682241,
+    1820682276,
+    1820682199,
+    1820682216,
+    1820682239,
+    1820682233,
+    1820682271,
+    1820682285,
+    1820682256,
+    1820682237,
+    1820682267
+  ],
+  "tags": {
+    "barrier": "hedge",
+    "name": "Edinburgh Labyrinth",
+    "name:es": "Laberinto de George Square",
+    "source": "Bing;survey",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 175506596,
+  "nodes": [
+    1860822571,
+    1860822590,
+    1860822597,
+    1860822581,
+    1860822583,
+    1860822586,
+    1860822588,
+    1860822591,
+    1860822592,
+    1860822599,
+    1860822601,
+    3278264526,
+    1860822610,
+    1860822605,
+    1860822603,
+    1860822579,
+    1860822571
+  ],
+  "tags": {
+    "name": "Old Calton Cemetery",
+    "source": "Bing;NLS_OS_Edinburgh_map_1940s;NLS_OS_Edinburgh_map_1893;survey",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 175506605,
+  "nodes": [
+    1860822570,
+    1860822575,
+    1860822580,
+    1860822582,
+    2476638527,
+    1860822576,
+    2476732118,
+    1860822577,
+    1860822569,
+    1860822565,
+    1860822567,
+    1860822568,
+    1860822570
+  ],
+  "tags": {
+    "name": "Old Calton Cemetery",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 235396951,
+  "nodes": [
+    1860822592,
+    1860822599,
+    1860822601,
+    2434623925,
+    2434623924,
+    2434623923,
+    2434623922,
+    2434623921,
+    1860822583,
+    1860822586,
+    1860822588,
+    1860822591,
+    1860822592
+  ],
+  "tags": {
+    "historic": "tomb",
+    "name": "Mausoleum of David Hume",
+    "source": "Bing;NLS_OS_Edinburgh_map_1940s;NLS_OS_Edinburgh_map_1893;survey",
+    "tomb": "mausoleum",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 239888879,
+  "nodes": [
+    2476732118,
+    1860822576,
+    2476638527,
+    2476638528,
+    2476732118
+  ],
+  "tags": {
+    "building": "yes",
+    "building:colour": "#9d9592",
+    "building:material": "stone",
+    "height": "27",
+    "historic": "monument",
+    "man_made": "obelisk",
+    "name": "Political Martyrs' Monument",
+    "roof:colour": "#9d9592",
+    "roof:height": "2",
+    "roof:material": "stone",
+    "roof:shape": "pyramidal",
+    "start_date": "1844",
+    "tourism": "attraction",
+    "wikipedia": "en:Political Martyrs' Monument"
+  }
+},
+{
+  "type": "way",
+  "id": 287130390,
+  "nodes": [
+    2907785124,
+    2907785119,
+    2907785132,
+    2907785120,
+    344405699,
+    2907785118,
+    2907785117,
+    2907785116,
+    2907785115,
+    2907785114,
+    2830216756,
+    2830216744,
+    2830216737,
+    2830216734,
+    2907785113,
+    2907785111,
+    2907785112,
+    2907785109,
+    2907785110,
+    344405700,
+    2907784278,
+    2907784275,
+    2907784279,
+    2907784283,
+    2907784276,
+    2907784277,
+    2907784285,
+    2907784287,
+    2907784280,
+    2907784281,
+    2907784289,
+    2907784291,
+    2907784282,
+    2907784284,
+    2907784293,
+    2907784294,
+    2907784286,
+    2907784288,
+    2907784296,
+    2907784298,
+    2907784290,
+    2907784292,
+    2907784300,
+    2907785102,
+    2907784295,
+    2907784297,
+    2907785103,
+    2907785105,
+    2907784299,
+    2907785101,
+    2907785106,
+    2907785108,
+    2907785104,
+    2907785107,
+    344405701,
+    344405702,
+    2907785154,
+    2907785158,
+    2907785151,
+    2907785145,
+    2907785156,
+    2907785155,
+    2907785144,
+    2907785140,
+    2907785150,
+    2907785149,
+    2907785139,
+    344405703,
+    344405704,
+    344405705,
+    344405706,
+    2907785134,
+    2907785138,
+    2907785137,
+    2907785133,
+    2907785127,
+    2907785136,
+    2907785135,
+    2907785124
+  ],
+  "tags": {
+    "alt_name:es": "iglesia_Greyfriars",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "church_of_scotland",
+    "name": "Greyfriars Church",
+    "religion": "christian",
+    "source": "Bing;survey",
+    "tourism": "attraction",
+    "wikipedia": "en:Greyfriars Kirk"
+  }
+},
+{
+  "type": "way",
+  "id": 293890858,
+  "nodes": [
+    845638038,
+    2974686874,
+    2974686871,
+    2974686869,
+    2974686854,
+    845637951,
+    2957505263,
+    845638138,
+    2974686864,
+    2973367150,
+    2973367157,
+    2973367155,
+    2973367154,
+    845638048,
+    2957505278,
+    2974686877,
+    845638038
+  ],
+  "tags": {
+    "alt_name:es": "John_Knox_House",
+    "building": "yes",
+    "building:levels": "3",
+    "name": "John Knox House",
+    "roof:levels": "1",
+    "source": "Bing",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 304973502,
+  "nodes": [
+    505006397,
+    505006398,
+    3095451947,
+    505006399,
+    3095451944,
+    3095451946,
+    505006397
+  ],
+  "tags": {
+    "alt_name:es": "Castillo_Edimburgo",
+    "amenity": "prison",
+    "building": "yes",
+    "name": "Military Prison",
+    "source": "Bing",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 304973503,
+  "nodes": [
+    504960509,
+    504960513,
+    504960516,
+    505006304,
+    504960509
+  ],
+  "tags": {
+    "alt_name:es": "Castillo_Edimburgo",
+    "building": "yes",
+    "name": "Royal Scots Museum",
+    "source": "Bing",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 320974679,
+  "nodes": [
+    3276790495,
+    3276790494,
+    3276790491,
+    3276790482,
+    3276790483,
+    3276790478,
+    3276790471,
+    3276790472,
+    3276790464,
+    3276790462,
+    3276789957,
+    3276789953,
+    3276789956,
+    3276789954,
+    3276789952,
+    3276789955,
+    3276789960,
+    3276790461,
+    3276790470,
+    3276790469,
+    3276790475,
+    3276790481,
+    3276790479,
+    3276790490,
+    3276790493,
+    3276790495
+  ],
+  "tags": {
+    "alt_name:es": "Monumento_Nelson",
+    "building": "yes",
+    "height": "32",
+    "historic": "monument",
+    "name": "Nelson Monument",
+    "source": "Bing;NLS_OS_Edinburgh_map_1940s;survey",
+    "tourism": "attraction",
+    "wikipedia": "en:Nelson Monument, Edinburgh"
+  }
+},
+{
+  "type": "relation",
+  "id": 33710,
+  "members": [
+    {
+      "type": "way",
+      "ref": 5352478,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 225612576,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:city": "Edinburgh",
+    "addr:country": "GB",
+    "addr:postcode": "EH8 9YL",
+    "addr:street": "South Bridge",
+    "amenity": "university",
+    "building": "university",
+    "name": "Old College",
+    "opening_hours": "Mo-Su 08:00-21:30",
+    "source": "NLS_OS_Edinburgh_map_1940s;Bing;survey",
+    "start_date": "1789",
+    "tourism": "attraction",
+    "type": "multipolygon",
+    "website": "http://www.ed.ac.uk/",
+    "wheelchair": "yes",
+    "wikipedia": "en:Old College, University of Edinburgh"
+  }
+},
+{
+  "type": "relation",
+  "id": 2344207,
+  "members": [
+    {
+      "type": "way",
+      "ref": 175506600,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 184237436,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "tourism": "attraction",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 2344208,
+  "members": [
+    {
+      "type": "way",
+      "ref": 175506603,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 184237445,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "tourism": "attraction",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 2344209,
+  "members": [
+    {
+      "type": "way",
+      "ref": 175506598,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 184237438,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "tourism": "attraction",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 2344210,
+  "members": [
+    {
+      "type": "way",
+      "ref": 175506601,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 184237440,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "tourism": "attraction",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 2344211,
+  "members": [
+    {
+      "type": "way",
+      "ref": 175506602,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 184237450,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "tourism": "attraction",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 3861750,
+  "members": [
+    {
+      "type": "way",
+      "ref": 41299971,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 290611928,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "alt_name:es": "Castillo_Edimburgo",
+    "building": "yes",
+    "historic": "memorial",
+    "name": "National War Memorial",
+    "tourism": "attraction",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 3861752,
+  "members": [
+    {
+      "type": "way",
+      "ref": 290611977,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 41299970,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 290611943,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "alt_name:es": "Castillo_Edimburgo",
+    "building": "yes",
+    "name": "Queen Ann Building",
+    "tourism": "attraction",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 3861753,
+  "members": [
+    {
+      "type": "way",
+      "ref": 290611959,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 41294328,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 290611982,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "alt_name:es": "Castillo_Edimburgo",
+    "building": "yes",
+    "name": "Royal Palace",
+    "tourism": "attraction",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="page.css" type="text/css" />
   <link rel="stylesheet" href="leaflet.css" />
   <script src="leaflet.js"></script>
-  <script src="http://code.jquery.com/jquery-latest.js"></script>
+  <script src="jquery-latest.js"></script>
 
  </head>
  
@@ -41,7 +41,7 @@
     id: 'carlars.3aa58c05',
     accessToken: 'pk.eyJ1IjoiY2FybGFycyIsImEiOiIzODRiMjc5NjdjMjNhMDA4YmFlMGM0NTIwZmZjNDJlMyJ9.6Li2ltpILTbZ2FHZDb9Adw'}).addTo(map);
 
-   $.getJSON( "http://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%28node%5B%22tourism%22%3D%22attraction%22%5D%2855%2E943864908788534%2C%2D3%2E2015061378479004%2C55%2E954305753609255%2C%2D3%2E178868293762207%29%3Bway%5B%22tourism%22%3D%22attraction%22%5D%2855%2E943864908788534%2C%2D3%2E2015061378479004%2C55%2E954305753609255%2C%2D3%2E178868293762207%29%3Brelation%5B%22tourism%22%3D%22attraction%22%5D%2855%2E943864908788534%2C%2D3%2E2015061378479004%2C55%2E954305753609255%2C%2D3%2E178868293762207%29%3B%29%3Bout%20body%3B%3E%3B%0A", function( data ) { 
+   $.getJSON( "locations.json",function ( data) { 
     console.log( data.elements );
    for(i=0; i < data.elements.length; i++) {
    var e=data.elements[i];
